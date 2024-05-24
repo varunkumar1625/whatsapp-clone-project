@@ -1,0 +1,23 @@
+{
+  "name": "server",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "\"\\\"Backend for LUCKY\",",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "\"\\\"Backend for whatsapp clone\", \"main\":\"index.js\","
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "mongodb": "^2.2.12",
+    "mongoose": "^8.4.0",
+    "nodemon": "^3.1.0"
+  }
+}
